@@ -17,16 +17,15 @@ It also includes CRUD operations, background workers, and type-safe SQL using sq
 
 
 🛠 Tech Stack
-Layer	        Technology
-Language	    Go (Golang)
-Web Framework	Chi
-Database	    PostgreSQL
-Migrations	  Goose
-SQL Generator	sqlc
-HTTP Client	  net/http
-XML Parsing	  encoding/xml
-UUID	        google/uuid
-Env Config	  godotenv
+Language:   Go (Golang)
+Web Framework:	Chi
+Database:	    PostgreSQL
+Migrations:	  Goose
+SQL Generator:	sqlc
+HTTP Client:	  net/http
+XML Parsing:	  encoding/xml
+UUID:	        google/uuid
+Env Config:	  godotenv
 
 
 🔁 Background Feed Worker
